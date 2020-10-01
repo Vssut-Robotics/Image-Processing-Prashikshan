@@ -15,8 +15,8 @@
     For example: Abhishek_task-1_ss1.png
 
 ## 2) Learning fundamental concepts.
-   Go to the provided link,you will find a folder "Fundametals".This folder has two files,go through these pdfs thoroughly.
-   Try to learn more about these through other sources.
+    Go to the provided link,you will find a folder "Fundametals".This folder has two files,go through these pdfs thoroughly.
+    Try to learn more about these through other sources.
 
 ## 3) Opening an image and capturing an image through camera.
     Go to the provided drive link,then move to the folder "Image_editing".
