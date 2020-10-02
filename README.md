@@ -13,5 +13,6 @@ Consisting 4 Tasks:
 1. Motion detection :
     The objective of this project is to detect any motion in a room or a space. When a motion is detected there is an alert on the screen. Also a recording of the webcam is stored in a file for future reference
 
-
+2. Face Detection  :
+    Detects the face and number of the face in an image.
 # VSSUT ROBOTICS PRASHIKSHAN
