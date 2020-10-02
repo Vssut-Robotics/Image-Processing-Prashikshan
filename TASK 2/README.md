@@ -44,3 +44,10 @@ After the execution of all the above mentioned task,take the screenshot of the p
 Link for the task-2 is: 
 https://drive.google.com/folderview?id=1VLaCtaEu4qQMvXlwhbelDnM3AUwQvBtq
 
+NOTE:
+1.Submission Format to be followed strictly.
+2.Late submission will not be considered.
+3.All your doubts are to be asked in this platform only. No doubts will be entertained if asked personally in any other mode. Solution to the doubts can be posted by anyone (not mandatory for only mentors to answer). Avoid repetition of questions by cross checking if the same question has already been asked.
+
+
+
