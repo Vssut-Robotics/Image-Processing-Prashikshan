@@ -12,7 +12,7 @@ Print the angles for the three images in the outpout screen and take the screens
 Name the python file as name_task4.py
 
 Verification Purpose:
-Image 1 angle:124.02 degree
+Image 1 angle:124.02 degre
 Image 2 angle:131.72 degree
 Image 3 angle: 27.73 degree
 
