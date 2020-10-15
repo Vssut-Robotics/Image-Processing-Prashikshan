@@ -30,3 +30,10 @@ After execution ,take the screenshot of window capturing actual video and save i
 Make sure that each of the above screenshot must also include all the trackbars created.
 Name the python script as Name_task 3.py.
 
+NOTE:
+1.Submission Format to be followed strictly.
+2.Late submission will not be considered.
+3.All your doubts are to be asked in this platform only. No doubts will be entertained if asked personally in any other mode. Solution to the doubts can be posted by anyone (not mandatory for only mentors to answer). Avoid repetition of questions by cross checking if the same question has already been asked.
+
+
+
