@@ -1,0 +1,23 @@
+The First Task or First step to learn Image Processing using python is to learn "How to open a image file?" 
+To do this we need to import two modules 1) numpy 2) cv2
+To install these modules we will have to write the following commands:
+1) pip install numpy
+2) pip install opencv
+
+Steps to open a image file.
+1) Import the modules
+2) Read the image file from the Directory using imread funtion of cv2.
+3) create a new window and show the image using imshow function of cv2.
+4) Call the waitkey fucntion
+5) Destroy all created window.
+
+The code will look like as shown below.
+
+------------------------------------------------------code-------------------------------------------------------
+import numpy                               //importing numpy module
+import cv2                                 //importing cv2 module
+img=cv2.imread("E-learning.jpg")           //reading image file from root directory as it is present in root
+cv2.imshow("image",img)                    //writing image file in a new window
+cv2.waitKey(0)                             //calling waitkey function to hold the window till user wants.
+cv2.destroyAllWindows()                    //destroing all the window at the end.
+------------------------------------------------------------------------------------------------------------------
